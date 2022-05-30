@@ -1,0 +1,934 @@
+@media all and (max-width:500px) {
+    h2 {position: absolute;
+        width: 145px;
+        height: 31px;
+        left: 280px;
+        top: 12px;
+        
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 31px;
+        /* identical to box height */
+        
+        letter-spacing: 0.03em;
+        
+        color: #2196FF;
+    }
+    .Studio {
+        position: absolute;
+        width: 49px;
+        height: 16px;
+        left: 54px;
+        top: 38px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+        
+        color: #2196FF;
+        
+    
+    }
+    .Contacts {
+        position: absolute;
+        width: 0px;
+        height: 0px;
+        left: 0px;
+        top: 55px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 0px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+        
+        color: white;
+        
+    }
+    .vector {
+        position: absolute;
+    left: 60px;
+    right: 200px;
+    top: 50px;
+    bottom: 0%;
+ width: -10px;
+    }
+    .portpholio {
+        position: absolute;
+        width: 77px;
+        height: 16px;
+        left: 130px;
+        top: 38px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.02em;
+        
+        color: white;
+        
+    }
+    .mail {
+        position: absolute;
+    width: 68px;
+    height: 16px;
+    left: 600px;
+    top: 38px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: white;
+    
+    }
+    .tel {
+        position: absolute;
+    width: 122px;
+    height: 16px;
+    left: 450px;
+    top: 38px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: black;
+    
+    
+    }
+    .buisness {
+        position: absolute;
+    width: 400px;
+    height: 100px;
+    left: 200px;
+    top: 170px;
+    
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 60px;
+    /* or 136% */
+    
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    
+    color: white;
+    }
+    
+    .button {
+        position: absolute;
+    width: 136px;
+    height: 25px;
+    left: 0px;
+    top: 400px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 30px;
+    /* identical to box height, or 188% */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+    
+    color: #FFFFFF;
+    
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 310px;
+    top: 330px;
+    
+    background: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+    }
+    .antenna {
+        /* antenna 1 */
+    
+    
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 350px;
+    top: 450px;
+    font-size:  10px;
+    
+    }
+    .detalyi {
+        position: absolute;
+    width: 270px;
+    height: 16px;
+    left: 300px;
+    top: 525px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    
+    color: #212121;
+    }
+    .h1 {
+        position: absolute;
+    width: 270px;
+    height: 75px;
+    left: 250px;
+    top: 550px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+    
+    letter-spacing: 0.03em;
+    
+    color: #757575;
+    
+    }
+    .clock {
+        /* clock 1 */
+    
+    
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 350px;
+    top: 664px;
+    
+    }
+    .punktual {
+        position: absolute;
+    width: 270px;
+    height: 16px;
+    left: 300px;
+    top: 735px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    
+    color: #212121;
+    
+    }
+    .h2 {
+        position: absolute;
+    width: 270px;
+    height: 75px;
+    left: 250px;
+    top: 765px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+    
+    letter-spacing: 0.03em;
+    
+    color: #757575;
+    
+    }
+    .diagram {
+        /* diagram 1 */
+    
+    
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 350px;
+    top: 870px;
+    
+    }
+    .plan {
+        position: absolute;
+    width: 270px;
+    height: 16px;
+    left: 300px;
+    top: 930px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    
+    color: #212121;
+    }
+    .h3 {
+        position: absolute;
+        width: 270px;
+        height: 75px;
+        left:250px;
+        top: 960px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+        /* or 171% */
+        
+        letter-spacing: 0.03em;
+        
+        color: #757575;
+    } 
+    .Group {
+        position: absolute;
+        width: 0px;
+        height:0px;
+        left: 1200px;
+        top: 800px
+    }
+    .texno {
+        position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 0px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    
+    color: #212121;
+    
+    }
+    .h4 {
+        position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0px;
+    line-height: 24px;
+    /* or 171% */
+    
+    letter-spacing: 0.03em;
+    
+    color: #757575;
+    
+    }
+    .jobs {
+        position: absolute;
+    width: 400px;
+    height: 46px;
+    left: 180px;
+    top: 1050px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    
+    color: #212121;
+    }  
+    .photo {
+        position: absolute;
+    width: 470px;
+    height: 294px;
+    left: 170px;
+    top: 1150px;
+    mix-blend-mode: normal;
+    }
+    .photo1 {
+        position: absolute;
+    width: 470px;
+    height: 294px;
+    left: 170px;
+    top: 1450px;
+    
+    }
+    .photo2 {
+        position: absolute;
+    width: 470px;
+    height: 294px;
+    left: 170px;
+    top: 1750px;
+    }
+    .team {
+        position: absolute;
+        width: 264px;
+        height: 42px;
+        left: 260px;
+        top: 2010px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 42px;
+        text-align: center;
+        letter-spacing: 0.03em;
+        
+        color: #212121;
+    }
+    .img1 {
+        position: absolute;
+        width: 270px;
+        height: 260px;
+        left: 250px;
+        top: 2070px;
+        border-radius: 0px;    
+    
+    }
+    .insta_click {
+        /* ========================insta_click======================== */
+    
+    
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 220px;
+    top: 2400px;
+    
+    }
+     /* ========================twitter======================== */
+    .twitter {
+        
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 290px;
+    top: 2400px;
+    }
+     /* ========================facebook======================== */
+    .facebook {
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        left: 360px;
+        top: 2388px;
+    }
+    /* ========================in======================== */
+    .in {
+        position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 450px;
+    top: 2388px;
+    }
+    .Igor {
+        position: absolute;
+    width: 151px;
+    height: 19px;
+    left: 300px;
+    top: 2330px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    text-align: center;
+    letter-spacing: 0.03em;
+    border-radius: 20px;
+    
+    color: #212121;
+    
+    }
+    .Product {
+        position: absolute;
+        width: 130px;
+        height: 19px;
+        left: 310px;
+        top: 2370px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 19px;
+        /* identical to box height */
+        
+        text-align: center;
+        letter-spacing: 0.03em;
+        
+        color: #757575;
+        
+    
+    }
+    .img2 {
+        position: absolute;
+    width: 270px;
+    height: 260px;
+    left: 250px;
+    top: 2500px;
+    border-radius: 0px;
+    }
+    .insta_click1 {
+        /* ========================insta_click======================== */
+    
+    
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 220px;
+    top: 2830px;
+    
+    }
+     /* ========================twitter======================== */
+    .twitter1 {
+        
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 290px;
+    top: 2840px;
+    }
+     /* ========================facebook======================== */
+    .facebook1 {
+        position: absolute;
+        width: 40px;
+        height: 40px;
+        left: 360px;
+        top: 2830px;
+    }
+    /* ========================in======================== */
+    .in1 {
+        position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 450px;
+    top: 2830px;
+    }
+    .Olga {
+        position: absolute;
+        width: 109px;
+        height: 19px;
+        left: 300px;
+        top: 2770px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+        /* identical to box height */
+        
+        text-align: center;
+        letter-spacing: 0.03em;
+        
+        color: #212121;
+    }
+    .Developer {
+    position: absolute;
+    width: 147px;
+    height: 19px;
+    left: 290px;
+    top: 2810px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    text-align: center;
+    letter-spacing: 0.03em;
+    
+    color: #757575;
+    }
+    .img3 {
+        position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    }
+    .insta_click2 {
+        /* ========================insta_click======================== */
+    
+    
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    font-size: 0px;
+    
+    }
+     /* ========================twitter======================== */
+    .twitter2 {
+        
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    }
+     /* ========================facebook======================== */
+    .facebook2 {
+        position: absolute;
+        width: 0px;
+        height: 0px;
+        left: 0px;
+        top: 0px;
+    }
+    /* ========================in======================== */
+    .in2 {
+        position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    }
+    .Kolya {
+        position: absolute;
+        width: 0px;
+        height: 0px;
+        left: 0px;
+        top: 0px;
+        
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 0px;
+        line-height: 19px;
+        /* identical to box height */
+        
+        text-align: center;
+        letter-spacing: 0.03em;
+        
+        color: #212121;
+    }
+    .marketing {
+        position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    text-align: center;
+    letter-spacing: 0.03em;
+    
+    color: #757575;
+    
+    }
+    .img4 {
+        position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    }
+    .insta_click3 {
+        /* ========================insta_click======================== */
+    
+    
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left:0px;
+    top:0px;
+    
+    }
+     /* ========================twitter======================== */
+    .twitter3 {
+        
+    position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top:0px;
+    }
+     /* ========================facebook======================== */
+    .facebook3 {
+        position: absolute;
+        width: 0px;
+        height: 0px;
+        left: 0px;
+        top: 0px;
+    }
+    /* ========================in======================== */
+    .in3 {
+        position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    }
+    .Misha {
+        position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 0px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    text-align: center;
+    letter-spacing: 0.03em;
+    
+    color: #212121;
+    
+    }
+    .twitter_click4 {
+        height: 0px;
+        width: 0px;
+        position: absolute;
+        left: 0px;
+        top: 0px;
+    }
+    .Designer {
+        position: absolute;
+    width: 0px;
+    height: 0px;
+    left: 0px;
+    top: 0px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0px;
+    line-height: 19px;
+    /* identical to box height */
+    
+    text-align: center;
+    letter-spacing: 0.03em;
+    
+    color: #757575;
+    
+    }
+    .clients {
+        /* Постоянные клиенты */
+    
+    
+        position: absolute; 
+    width: 390px; 
+    height: 42px; 
+    left: 180px; 
+    top: 2900px; 
+    
+    font-family: 'Roboto'; 
+    font-style: normal; 
+    font-weight: 700; 
+    font-size: 36px; 
+    line-height: 42px; 
+    text-align: center; 
+    letter-spacing: 0.03em; 
+    
+    color: #212121;
+    
+    }
+    .Client1 { 
+        /* Client 1 */
+    
+    
+        position: absolute; 
+    width: 200px; 
+    height: 123px; 
+    left: 190px; 
+    top: 3000px; 
+    }
+    .Client2 {
+        /* Client 1 */
+    
+    
+    position: absolute;
+    width: 200px;
+    height: 123px;
+    left: 400px;
+    top: 3000px;
+    
+    }
+       /* Client */
+    
+    .Client3 {
+       position: absolute;
+       width: 200px;
+       height: 123px;
+       left: 190px;
+       top: 3135px;
+       
+       }
+       .Client4 {
+            /* Client */
+    
+    
+    position: absolute;
+    width: 200px;
+    height: 123px;
+    left: 400px;
+    top: 3135px;
+    
+    }
+    .Client5 {
+           /* Client */
+    
+    
+    position: absolute;
+    width: 200px;
+    height: 123px;
+    left: 190px;
+    top: 3270px;
+    
+    }
+    .Client6 {
+           /* Client */
+    
+    position: absolute;
+    width: 200px;
+    height: 123px;
+    left: 400px;
+    top: 3270px;
+    
+    }
+    .vector3 {
+        position: absolute;
+        top:2415px;
+        left: 230px;
+    }
+    .vector2 {
+        position: absolute;
+        top: 45px;
+        left: 640px;
+    }
+    .vector4 {
+        position: absolute;
+        top:3250px;
+        left: 440px;
+    }
+.bg {
+    position: absolute;
+    height: 320px;
+    width: 730px;
+}
+/* bg footer */
+.bg2 {
+    position: absolute;
+    top: 3400px;
+    height: 150px;
+    width: 730px;
+}
+.maps {
+    position: absolute;
+width: 231px;
+height: 21px;
+left: 80px;
+top: 3420px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+}
+.mail2 {
+    position: absolute;
+width: 231px;
+height: 21px;
+left: 80px;
+top: 3440px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+letter-spacing: 0.03em;
+
+color: black;
+
+}
+.tel2 {
+    position: absolute;
+width: 231px;
+height: 21px;
+left: 80px;
+top: 3460px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+
+letter-spacing: 0.03em;
+
+color: rgba(255, 255, 255, 0.6);
+}
+.ssylka:hover {
+    color:#2196FF;
+}
+.ssylka:focus {
+    color: #2196FF;
+}
+.studio {
+    position: absolute;
+    top: 3387px;
+    left: 90px;
+    font-size: 15px;
+
+}
+ }
